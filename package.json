@@ -67,7 +67,7 @@
     "cpx": "^1.2.1",
     "cross-env": "^1.0.5",
     "css-loader": "^0.23.1",
-    "eslint": "^1.10.3",
+    "eslint": "^7.5.0",
     "eslint-plugin-babel": "^3.0.0",
     "eslint-plugin-react": "^3.12.0",
     "expect": "^1.13.4",
